@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/morris_chart",
-    "version":"3.0.0",
+    "name": "cliqued-media/morris_chart",
+    "version":"1.0.0",
     "description": "Widget wrapper to draw Morris js chart",
     "keywords": ["PHP","Reporting Tools","Data Report","Charts","Morris JS"],
     "homepage": "https://www.koolreport.com",
